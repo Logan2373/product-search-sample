@@ -1,2 +1,1 @@
-# product-search-sample
-product-search-sample
+Complete Spring Boot + Elasticsearch sample project.

@@ -1,0 +1,15 @@
+/workspaces/product-search-sample/src/main/java/com/example/search/ProductSearchApplication.java
+/workspaces/product-search-sample/src/main/java/com/example/search/config/OpenApiConfig.java
+/workspaces/product-search-sample/src/main/java/com/example/search/controller/ProductController.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/AccountDocument.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CardDocument.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerEntity.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerProfileController.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerProfileDocument.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerProfileRepository.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerProfileService.java
+/workspaces/product-search-sample/src/main/java/com/example/search/customer/CustomerSqlRepository.java
+/workspaces/product-search-sample/src/main/java/com/example/search/exception/GlobalExceptionHandler.java
+/workspaces/product-search-sample/src/main/java/com/example/search/model/Product.java
+/workspaces/product-search-sample/src/main/java/com/example/search/repository/ProductRepository.java
+/workspaces/product-search-sample/src/main/java/com/example/search/service/ProductService.java
